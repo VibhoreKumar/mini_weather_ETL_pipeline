@@ -2710,3 +2710,17 @@
 {"city": "Sao Paulo", "temperature_c": 15.9, "wind_speed_kmh": 2.5, "temp_category": "Normal"}
 {"city": "Riyadh", "temperature_c": 33.0, "wind_speed_kmh": 6.2, "temp_category": "Normal"}
 {"city": "Reykjavik", "temperature_c": 8.4, "wind_speed_kmh": 10.4, "temp_category": "Cold"}
+{"city": "Berlin", "temperature_c": 16.1, "wind_speed_kmh": 11.9, "temp_category": "Normal"}
+{"city": "Delhi", "temperature_c": 30.5, "wind_speed_kmh": 1.2, "temp_category": "Normal"}
+{"city": "Mumbai", "temperature_c": 29.0, "wind_speed_kmh": 15.7, "temp_category": "Normal"}
+{"city": "Tokyo", "temperature_c": 33.1, "wind_speed_kmh": 6.5, "temp_category": "Normal"}
+{"city": "Paris", "temperature_c": 20.4, "wind_speed_kmh": 4.3, "temp_category": "Normal"}
+{"city": "Sydney", "temperature_c": 16.4, "wind_speed_kmh": 16.1, "temp_category": "Normal"}
+{"city": "Dubai", "temperature_c": 42.1, "wind_speed_kmh": 9.2, "temp_category": "Hot"}
+{"city": "Cairo", "temperature_c": 28.1, "wind_speed_kmh": 8.4, "temp_category": "Normal"}
+{"city": "Moscow", "temperature_c": 15.1, "wind_speed_kmh": 9.7, "temp_category": "Normal"}
+{"city": "Singapore", "temperature_c": 30.7, "wind_speed_kmh": 9.0, "temp_category": "Normal"}
+{"city": "Toronto", "temperature_c": 15.6, "wind_speed_kmh": 7.8, "temp_category": "Normal"}
+{"city": "Cape Town", "temperature_c": 14.6, "wind_speed_kmh": 7.2, "temp_category": "Normal"}
+{"city": "Sao Paulo", "temperature_c": 14.9, "wind_speed_kmh": 2.9, "temp_category": "Normal"}
+{"city": "Riyadh", "temperature_c": 40.3, "wind_speed_kmh": 2.2, "temp_category": "Hot"}
