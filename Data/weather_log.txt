@@ -7019,3 +7019,4 @@
 {"city": "Sao Paulo", "temperature_c": 21.9, "wind_speed_kmh": 2.2, "temp_category": "Normal"}
 {"city": "Riyadh", "temperature_c": 20.8, "wind_speed_kmh": 0.2, "temp_category": "Normal"}
 {"city": "Reykjavik", "temperature_c": 8.2, "wind_speed_kmh": 37.8, "temp_category": "Cold"}
+{"city": "Reykjavik", "temperature_c": 8.7, "wind_speed_kmh": 40.7, "temp_category": "Cold"}
